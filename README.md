@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a PhD student at UCSD, working on the particle physics experiment XENONnT. 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuema137&hide=stars&theme=gotham&include_all_commits=True)](https://github.com/yuema137/github-readme-stats)
+[![Yue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuema137&hide=stars&theme=gotham&include_all_commits=True)](https://github.com/yuema137/github-readme-stats)
 
 <!--
 **yuema137/yuema137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
