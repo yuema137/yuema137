@@ -12,5 +12,3 @@ My current work focuses on:
 My background is in experimental particle physics, with research experience across the **XENONnT**, **LEGEND**, and **KamLAND** experiments. My work has involved statistical inference, detector data analysis, signal processing, simulation, and scientific software infrastructure.
 
 I am particularly interested in building open-source tools that make AI agents more reliable, measurable, and useful for scientific discovery.
-
-[![Yue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuema137\&hide=stars\&theme=gotham)](https://github.com/yuema137/github-readme-stats)
