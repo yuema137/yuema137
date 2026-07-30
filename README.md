@@ -1,8 +1,16 @@
-### Hi there 👋
-I am a PhD student at UCSD, engaged in research on the XENONnT particle physics experiment.
+### Hi, I'm Yue 👋
 
-Beyond my contributions to maintaining and developing data analysis repositories for XENONnT, I work on open-source medical imaging simulations and physics-informed machine learning. 
+I am a postdoctoral researcher at the **Halıcıoğlu Data Science Institute, UC San Diego**, working on agentic AI systems for real-world scientific and engineering problems.
 
-Additionally, I apply my coding and mathematical knowledge to board game design as a creative and technical hobby.
+My current work focuses on:
 
-[![Yue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuema137&hide=stars&theme=gotham)](https://github.com/yuema137/github-readme-stats)
+* Building **agentic frameworks** for iterative scientific reasoning, experimentation, and model development
+* Developing **long-horizon reinforcement learning environments** for realistic STEM workflows
+* Designing **scientific evaluation infrastructure** that measures final outcomes, intermediate decisions, trajectories, and computational costs
+* Creating **interpretable statistical and machine-learning methods** for data-intensive scientific research
+
+My background is in experimental particle physics, with research experience across the **XENONnT**, **LEGEND**, and **KamLAND** experiments. My work has involved statistical inference, detector data analysis, signal processing, simulation, and scientific software infrastructure.
+
+I am particularly interested in building open-source tools that make AI agents more reliable, measurable, and useful for scientific discovery.
+
+[![Yue's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuema137\&hide=stars\&theme=gotham)](https://github.com/yuema137/github-readme-stats)
