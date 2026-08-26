@@ -16,11 +16,14 @@ engineering as on science.
 #### What I work on
 
 * **Cost-aware agentic systems** — closed-loop systems that propose, implement, and evaluate experiments under real compute budgets
-* **Scientific agent evaluation** — judging agents by outcomes, resource use, and full decision trajectories
+* **Scientific agent evaluation** — representing decision trajectories and action spaces, so agents can be judged on outcomes and on what they spent
 * **ML for scientific discovery** — neural processes and multi-fidelity surrogates for expensive simulation
 * **Statistical inference at scale** — Bayesian and likelihood methods for rare-event searches, and the data systems behind them
 
 #### What I build
+
+Three layers of the same problem: a system that carries out the research, a methodology for
+representing what any such system did, and a benchmark that asks the question inside one field.
 
 | Project | What it is | Role |
 | --- | --- | --- |
