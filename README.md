@@ -28,7 +28,7 @@ representing what any such system did, and a benchmark that asks the question in
 | Project | What it is | Role |
 | --- | --- | --- |
 | **[SIDERIUS](https://github.com/Galileo-Sandbox/SIDERIUS)** | A closed-loop agentic system for autonomous research under real compute budgets | Sole architect |
-| **[SciTra](https://scitra.org)** | A methodology for representing what a scientific agent did — decision trajectories and action spaces — so runs are comparable across agents, tasks, and fields, plus the infrastructure that implements it. Not tied to a single benchmark or field. 50+ scientists, 20+ institutions, with BenchFlow | Founder & lead |
+| **[SciTra](https://scitra.org)** | A methodology for representing what a scientific agent did — decision trajectories and action spaces — so runs are comparable across agents, tasks, and fields, plus the infrastructure that implements it. Not tied to a single benchmark or field. 50+ scientists, 20+ institutions, with BenchFlow | Founder & Coordinator |
 
 #### Background
 
