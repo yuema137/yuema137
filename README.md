@@ -20,17 +20,20 @@ engineering as on science.
 * **ML for scientific discovery** — neural processes and multi-fidelity surrogates for expensive simulation
 * **Statistical inference at scale** — Bayesian and likelihood methods for rare-event searches, and the data systems behind them
 
-#### What I build
+## Research & Open Source
 
-Three layers of the same problem: a system that carries out the research, a methodology for
-representing what any such system did, and a benchmark that asks the question inside one field.
+I build agentic infrastructure for scientific discovery,
+with a focus on composable scientific capabilities,
+long-horizon exploration, and rigorous agent evaluation.
 
-| Project | What it is | Role |
+| Project | Focus | Role |
 | --- | --- | --- |
-| **[SIDERIUS](https://github.com/yuema137/SIDERIUS)** | A closed-loop agentic system for autonomous research under real compute budgets | Sole architect |
-| **[SciTra](https://scitra.org)** | A methodology for representing what a scientific agent did — decision trajectories and action spaces — so runs are comparable across agents, tasks, and fields, plus the infrastructure that implements it. Not tied to a single benchmark or field. 50+ scientists, 20+ institutions, with BenchFlow | Founder & Coordinator |
-|**[Scieval](https://yuema137.github.io/scieval)**| Live knowledge base about evaluating science agents| Maintainer |
-|**[Bench's Last Exam](https://yuema137.github.io/ble)**| LLM Models are probes. The benchmark is the object we compare. Come check the best benchmarks which stand the test of time!| Maintainer |
+| **[SIDERIUS](https://github.com/yuema137/SIDERIUS)** | Composable scientific capabilities for autonomous research under real compute budgets. | Creator & Architect |
+| **[PELAGUS](https://github.com/yuema137/PELAGUS)** | Graph-based scientific capabilities and contract-driven agent teams for experimental physics. | Creator & Architect |
+| **[SciTra](https://scitra.org)** | A unified representation of scientific agent trajectories and action spaces, enabling comparable evaluation across agents, tasks, and disciplines. A community of 50+ scientists across 20+ institutions, in partnership with BenchFlow. | Founder & Coordinator |
+| **[ALE-Physics](https://ale-physics.org/)** | Evaluating the frontier of AI capabilities on challenging physics research problems. | Coordinator |
+| **[Scieval](https://yuema137.github.io/scieval)** | A living knowledge base on scientific agent evaluation. | Maintainer |
+| **[Bench's Last Exam](https://yuema137.github.io/ble)** | Benchmarking the benchmarks: models as probes, benchmarks as objects of evaluation. | Maintainer |
 
 #### Background
 
