@@ -28,7 +28,7 @@ long-horizon exploration, and rigorous agent evaluation.
 
 | Project | Focus | Role |
 | --- | --- | --- |
-| **[SIDERIUS](https://github.com/yuema137/SIDERIUS)** | Composable scientific capabilities for autonomous research under real compute budgets. | Creator & Architect |
+| **[SIDERIUS](https://github.com/yuema137/SIDERIUS)** | Composable agent capabilities for autonomous scientific ML under real compute budgets. | Creator & Architect |
 | **[PELAGUS](https://github.com/yuema137/PELAGUS)** | Graph-based scientific capabilities and contract-driven agent teams for experimental physics. | Creator & Architect |
 | **[SciTra](https://scitra.org)** | A unified representation of scientific agent trajectories and action spaces, enabling comparable evaluation across agents, tasks, and disciplines. A community of 50+ scientists across 20+ institutions, in partnership with BenchFlow. | Founder & Coordinator |
 | **[ALE-Physics](https://ale-physics.org/)** | Evaluating the frontier of AI capabilities on challenging physics research problems. | Coordinator |
